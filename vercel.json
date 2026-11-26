@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/priya_glam_house_updated.html"
+    }
+  ]
+}
