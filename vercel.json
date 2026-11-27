@@ -2,7 +2,9 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/priya_glam_house_updated.html"
+      
+"destination": "/priya_glam_house_reviews_added (1).html"
+
     }
   ]
 }
